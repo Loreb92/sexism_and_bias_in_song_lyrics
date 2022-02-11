@@ -1,0 +1,43 @@
+capital-common-countries:
+ACCURACY TOP1: 13.68 %  (52 / 380)
+Total accuracy: 13.68 %   Semantic accuracy: 13.68 %   Syntactic accuracy: nan % 
+capital-world:
+ACCURACY TOP1: 7.30 %  (49 / 671)
+Total accuracy: 9.61 %   Semantic accuracy: 9.61 %   Syntactic accuracy: nan % 
+currency:
+ACCURACY TOP1: 1.89 %  (2 / 106)
+Total accuracy: 8.90 %   Semantic accuracy: 8.90 %   Syntactic accuracy: nan % 
+city-in-state:
+ACCURACY TOP1: 21.06 %  (464 / 2203)
+Total accuracy: 16.88 %   Semantic accuracy: 16.88 %   Syntactic accuracy: nan % 
+family:
+ACCURACY TOP1: 69.52 %  (292 / 420)
+Total accuracy: 22.72 %   Semantic accuracy: 22.72 %   Syntactic accuracy: nan % 
+gram1-adjective-to-adverb:
+ACCURACY TOP1: 14.73 %  (137 / 930)
+Total accuracy: 21.15 %   Semantic accuracy: 22.72 %   Syntactic accuracy: 14.73 % 
+gram2-opposite:
+ACCURACY TOP1: 18.61 %  (86 / 462)
+Total accuracy: 20.92 %   Semantic accuracy: 22.72 %   Syntactic accuracy: 16.02 % 
+gram3-comparative:
+ACCURACY TOP1: 44.25 %  (385 / 870)
+Total accuracy: 24.28 %   Semantic accuracy: 22.72 %   Syntactic accuracy: 26.88 % 
+gram4-superlative:
+ACCURACY TOP1: 18.18 %  (84 / 462)
+Total accuracy: 23.85 %   Semantic accuracy: 22.72 %   Syntactic accuracy: 25.40 % 
+gram5-present-participle:
+ACCURACY TOP1: 34.98 %  (177 / 506)
+Total accuracy: 24.65 %   Semantic accuracy: 22.72 %   Syntactic accuracy: 26.90 % 
+gram6-nationality-adjective:
+ACCURACY TOP1: 14.68 %  (116 / 790)
+Total accuracy: 23.64 %   Semantic accuracy: 22.72 %   Syntactic accuracy: 24.50 % 
+gram7-past-tense:
+ACCURACY TOP1: 7.13 %  (62 / 870)
+Total accuracy: 21.98 %   Semantic accuracy: 22.72 %   Syntactic accuracy: 21.41 % 
+gram8-plural:
+ACCURACY TOP1: 43.68 %  (380 / 870)
+Total accuracy: 23.96 %   Semantic accuracy: 22.72 %   Syntactic accuracy: 24.77 % 
+gram9-plural-verbs:
+ACCURACY TOP1: 3.79 %  (5 / 132)
+Total accuracy: 23.69 %   Semantic accuracy: 22.72 %   Syntactic accuracy: 24.30 % 
+Questions seen / total: 9672 19544   49.49 % 

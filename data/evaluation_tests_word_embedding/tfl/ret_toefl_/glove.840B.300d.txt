@@ -1,0 +1,12 @@
+cannot find word: apathetically
+cannot find word: bipartisanly
+cannot find word: descriptively
+cannot find word: halfheartedly
+cannot find word: haltingly
+cannot find word: interrelations
+cannot find word: patriotically
+cannot find word: shrewdly
+cannot find word: steadier
+cannot find word: unconventionally
+cannot find word: verbosely
+0.887500

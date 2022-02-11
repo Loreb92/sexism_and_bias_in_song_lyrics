@@ -1,0 +1,6 @@
+cannot find word: madhouse
+ws353.txt: 0.719278
+cannot find word: madhouse
+ws353_relatedness.txt: 0.701236
+cannot find word: madhouse
+ws353_similarity.txt: 0.783013
