@@ -18,4 +18,4 @@ The notebooks used to filter the dataset and generate the results are stored at 
 
 - Notebooks contained in `notebooks/` were run under the environment specified by the file `environment.yml`
 
-- Notebooks contained in `notebooks_colab/` were run in Google Colab, and results were saved in Google Drive. 
+- Notebooks contained in `notebooks_colab/` were run in Google Colab, and results were saved in Google Drive.
